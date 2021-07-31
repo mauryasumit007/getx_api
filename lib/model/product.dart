@@ -14,7 +14,7 @@ String productToJson(List<Product> data) =>
 class Product {
   Product({
     this.id,
-jhjh
+
     this.brand,
     this.name,
     this.price,
